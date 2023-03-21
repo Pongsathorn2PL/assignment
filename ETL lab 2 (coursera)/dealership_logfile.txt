@@ -1,0 +1,20 @@
+12:45:38-Mar-21-2023,ETL job start
+12:45:38-Mar-21-2023,Extract start
+12:45:38-Mar-21-2023,Extract End
+12:45:38-Mar-21-2023,Transform start
+12:45:38-Mar-21-2023,Transform_complete
+12:45:38-Mar-21-2023,Load start
+12:46:12-Mar-21-2023,ETL job start
+12:46:12-Mar-21-2023,Extract start
+12:46:12-Mar-21-2023,Extract End
+12:46:12-Mar-21-2023,Transform start
+12:46:12-Mar-21-2023,Transform_complete
+12:46:12-Mar-21-2023,Load start
+12:47:59-Mar-21-2023,ETL job start
+12:47:59-Mar-21-2023,Extract start
+12:47:59-Mar-21-2023,Extract End
+12:47:59-Mar-21-2023,Transform start
+12:47:59-Mar-21-2023,Transform_complete
+12:47:59-Mar-21-2023,Load start
+12:47:59-Mar-21-2023,Load end
+12:47:59-Mar-21-2023,ETL Complete
